@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "sdb",
+      "email": "sdb@gmail.com",
+      "contact": "33712",
+      "address": "Delhi",
+      "id": 2
+    },
+    {
+      "name": "Vipin",
+      "email": "Vipin@gmail.com",
+      "contact": "2312312",
+      "address": "Gurgaon",
+      "id": 3
+    },
+    {
+      "name": "Arti",
+      "email": "arti@chetu.com",
+      "contact": "2312312",
+      "address": "Chipiyana",
+      "id": 4
+    },
+    {
+      "name": "sakib",
+      "email": "sakib@gmail.com",
+      "contact": "2323312",
+      "address": "Delhi",
+      "id": 5
+    },
+    {
+      "name": "hello",
+      "email": "John@gmail.com",
+      "contact": "212212",
+      "address": "Delhi",
+      "id": 6
+    },
+    {
+      "name": "Dell",
+      "email": "Del@gmail.com",
+      "contact": "123123",
+      "address": "New York",
+      "id": 7
+    }
+  ]
+}
